@@ -60,7 +60,7 @@ export default function TextExperience() {
                 bevelOffset={0}
                 bevelSegments={5}
               >
-                Hi! Im Jhon Doe
+                Hi! Im Johan Mancebo
                 <MeshTransmissionMaterial
                   clearcoat={1}
                   samples={3}
@@ -88,7 +88,7 @@ export default function TextExperience() {
                 bevelOffset={0}
                 bevelSegments={5}
               >
-                Web Developer
+                Bakend Developer y DevOps
                 <MeshTransmissionMaterial
                   clearcoat={1}
                   samples={3}
