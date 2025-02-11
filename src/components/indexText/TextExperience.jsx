@@ -30,7 +30,7 @@ export default function TextExperience() {
         position={[15, 15, 15]}
         intensity={1.5}
         castShadow
-        shadow-mapSize-width={2048}
+        shadow-mapSize-width={2050}
         shadow-mapSize-height={2048}
         shadow-bias={-0.0001}
         shadow-camera-far={300}
@@ -88,7 +88,7 @@ export default function TextExperience() {
                 bevelOffset={0}
                 bevelSegments={5}
               >
-                Bakend Developer y DevOps
+                Backend Developer y DevOps
                 <MeshTransmissionMaterial
                   clearcoat={1}
                   samples={3}
